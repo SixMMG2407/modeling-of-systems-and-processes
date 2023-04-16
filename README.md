@@ -1,4 +1,4 @@
-# Systems and Process Modeling
+# Modeling of Systems and Processes
 
 ## Contents
 

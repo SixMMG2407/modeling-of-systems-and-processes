@@ -1,0 +1,6 @@
+Hogg, R.V., McKean, J.W. and Craig, A.T. (2020) Introduction to mathematical statistics. Harlow, England: Pearson.
+Kroese, D.P., Taimre, T. and Botev, Z.I. (2011) Handbook of Monte Carlo Methods. Hoboken: John Wiley & Sons. 
+Diez, D., Barr, C. and Çetinkaya-Rundel Mine (2014) Introductory statistics with randomization and simulation. Minneapolis, MN: Open Textbook Library. 
+Blais, B. (2020) Statistical inference for everyone. Minneapolis, MN: Open Textbook Library. 
+Gentle, J.E. (2010) Random number generation and Monte Carlo Methods. New York: Springer. 
+Unpingco José H. (2022) Python for probability, statistics and machine learning. Cham: Springer Nature Switzerland. 

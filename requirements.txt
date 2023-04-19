@@ -4,3 +4,4 @@ nbformat>=4.2.0
 pandas>=2.0
 plotly>=5.12
 scikit-learn>=1.2
+seaborn>=0.10
